@@ -300,4 +300,4 @@ db.users.createIndex(
 - Use `$limit` and `$project` to reduce result set
 - Leverage aggregation pipeline for complex data transformations
 - Regularly review and optimize database schema
-```
+
